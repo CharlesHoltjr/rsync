@@ -24,7 +24,7 @@
            export LANG="$LC_ALL"
            export LC_CTYPE="$LC_ALL"
            unset LC_ALL
-       fi
+       CJ
        export LC_NUMERIC=C.UTF-8
    ```
 
